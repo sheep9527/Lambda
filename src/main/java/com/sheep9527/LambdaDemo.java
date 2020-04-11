@@ -17,6 +17,6 @@ public class LambdaDemo {
 
         //使用Lambda表达式
         getMessage(() -> System.out.println("hello java"));
-
+        System.out.println("今天也要加油鸭");
     }
 }
